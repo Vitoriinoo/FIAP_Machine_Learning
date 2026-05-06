@@ -1,6 +1,6 @@
 # Meus Projetos de Machine Learning
 
-Este repositório centraliza meus estudos e implementações de algoritmos de Ciência de Dados.
+Este repositório centraliza meus estudos de Machine Learning 
 
 | Projeto | Algoritmo | Dataset | Status |
 | :--- | :--- | :--- | :--- |
